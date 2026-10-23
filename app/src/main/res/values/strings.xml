@@ -26,6 +26,15 @@
     <string name="back">Zurück</string>
     <string name="camera">Kamera</string>
     <string name="img">Bild</string>
+    <string name="export">Exportieren</string>
+    <string name="imp">Importieren</string>
+    <string name="export_running">Export läuft…</string>
+    <string name="export_success">Export erfolgreich</string>
+    <string name="export_failure">Export nicht erfolgreich</string>
+    <string name="import_running">Import läuft…</string>
+    <string name="import_success">Import erfolgreich</string>
+    <string name="import_failure">Import nicht erfolgreich</string>
+
 
 
 
